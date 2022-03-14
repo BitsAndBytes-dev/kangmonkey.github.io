@@ -1,6 +1,7 @@
-A Responsive Portfolio by P Sambit Kumar aka "KangMonkey" 
-Do Checkout - https://kangmonkey.github.io
+ 
 
+<h1><b><i>Do Checkout</b> - https://kangmonkey.github.io</i></h1>
+<h2><i>A Responsive Portfolio by P Sambit Kumar aka "KangMonkey"</i></h2>
 
 Credits:
 
