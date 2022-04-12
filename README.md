@@ -1,7 +1,10 @@
  
 
-<h1><b><i>Do Checkout</b> - https://kangmonkey.github.io</i></h1>
-<h2><i>A Responsive Portfolio by P Sambit Kumar aka "KangMonkey"</i></h2>
+<h3> Do Checkout - https://kangmonkey.github.io </h3>
+<hr>
+A Responsive Portfolio by P Sambit Kumar aka "KangMonkey"
+
+# Desktop View Recommended ⚠️
 
 Credits:
 
