@@ -1,8 +1,10 @@
  
 
 <h3> Do Checkout - https://kangmonkey.github.io </h3>
-<hr>
+
+```
 A Responsive Portfolio by P Sambit Kumar aka "KangMonkey"
+```
 
 # Desktop View Recommended ⚠️
 
